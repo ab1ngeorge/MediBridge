@@ -1,0 +1,38 @@
+﻿Analyzing cipher...                                             
+
+  error - Methods can't be invoked in constant expressions - lib\screens\early_warning_screen.dart:73:29 - const_eval_method_invocation
+  error - Methods can't be invoked in constant expressions - lib\screens\early_warning_screen.dart:187:19 - const_eval_method_invocation
+  error - Methods can't be invoked in constant expressions - lib\widgets\doctor_feedback_section.dart:73:23 - const_eval_method_invocation
+   info - Unnecessary 'const' keyword - lib\widgets\doctor_feedback_section.dart:74:30 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\widgets\doctor_feedback_section.dart:82:30 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\widgets\health_bot_section.dart:445:23 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\widgets\health_bot_section.dart:446:23 - unnecessary_const
+  error - Methods can't be invoked in constant expressions - lib\widgets\health_bot_section.dart:448:25 - const_eval_method_invocation
+   info - Unnecessary 'const' keyword - lib\widgets\health_bot_section.dart:449:32 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\widgets\health_bot_section.dart:451:23 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\widgets\health_bot_section.dart:454:32 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\widgets\health_bot_section.dart:548:33 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\widgets\health_bot_section.dart:549:33 - unnecessary_const
+  error - Methods can't be invoked in constant expressions - lib\widgets\health_bot_section.dart:552:37 - const_eval_method_invocation
+  error - Methods can't be invoked in constant expressions - lib\widgets\offline_emergency_screen.dart:53:29 - const_eval_method_invocation
+   info - Unnecessary 'const' keyword - lib\widgets\offline_emergency_screen.dart:54:36 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\widgets\offline_emergency_screen.dart:63:36 - unnecessary_const
+
+flutter : 17 issues 
+found. (ran in 2.6s)
+At line:1 char:1
++ flutter analyze 2>&1 
+| Out-File -FilePath C:
+\Users\abing\Desktop\ci
+ph ...
++ ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (17 issues fou   
+ nd. (ran in 2.6s):    
+String) [], Remote    
+Exception
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
